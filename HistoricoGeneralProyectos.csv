@@ -1,0 +1,640 @@
+IdCambio,IdPlanAnual,IdProyecto,Usuario,CampoModificado/Actividad,FechaModificacion,CampoBefore,CampoAfter
+1,4,17,,Bloqueo,2022-02-28,,2022-02-28
+2,4,22,,Bloqueo,2022-02-28,,2022-02-28
+3,4,348,,Bloqueo,2022-04-25,,2022-04-25
+4,4,14,,Bloqueo,2022-05-24,,2022-05-24
+5,4,23,,Bloqueo,2022-05-24,,2022-05-24
+6,4,25,,Bloqueo,2022-05-24,,2022-05-24
+7,4,27,,Bloqueo,2022-05-24,,2022-05-24
+8,4,28,,Bloqueo,2022-05-24,,2022-05-24
+9,4,54,,Bloqueo,2022-05-24,,2022-05-24
+10,4,55,,Bloqueo,2022-05-24,,2022-05-24
+11,4,57,,Bloqueo,2022-05-24,,2022-05-24
+12,4,61,,Bloqueo,2022-05-24,,2022-05-24
+13,4,63,,Bloqueo,2022-05-24,,2022-05-24
+14,4,18,,Bloqueo,2022-05-25,,2022-05-25
+15,4,19,,Bloqueo,2022-05-25,,2022-05-25
+16,4,20,,Bloqueo,2022-05-25,,2022-05-25
+17,4,21,,Bloqueo,2022-05-25,,2022-05-25
+18,4,24,,Bloqueo,2022-05-25,,2022-05-25
+19,4,26,,Bloqueo,2022-05-25,,2022-05-25
+20,4,360,,Bloqueo,2022-07-12,,2022-07-12
+21,4,369,,Bloqueo,2022-07-12,,2022-07-12
+22,4,93,,Bloqueo,2022-07-19,,2022-07-19
+23,4,119,,Bloqueo,2022-07-19,,2022-07-19
+24,4,349,,Bloqueo,2022-07-26,,2022-07-26
+25,4,367,,Bloqueo,2022-08-09,,2022-08-09
+26,4,378,,Bloqueo,2022-08-09,,2022-08-09
+27,4,39,,Bloqueo,2022-10-25,,2022-10-25
+28,4,42,,Bloqueo,2022-10-25,,2022-10-25
+29,4,350,,Bloqueo,2022-11-07,,2022-11-07
+30,4,351,,Bloqueo,2022-12-23,,2022-12-23
+31,4,56,,Bloqueo,2022-12-30,,2022-12-30
+32,4,48,,Bloqueo,2023-01-24,,2023-01-24
+33,11,136,,Bloqueo,2023-05-23,,2023-05-23
+34,11,148,,Bloqueo,2023-05-23,,2023-05-23
+35,11,151,,Bloqueo,2023-05-23,,2023-05-23
+36,11,155,,Bloqueo,2023-05-23,,2023-05-23
+37,11,157,,Bloqueo,2023-05-23,,2023-05-23
+38,11,158,,Bloqueo,2023-05-23,,2023-05-23
+39,11,173,,Reemplazo,2023-05-23,,2023-05-23
+40,11,179,,Reemplazo,2023-05-23,,2023-05-23
+41,11,182,,Reemplazo,2023-05-23,,2023-05-23
+42,11,216,,Bloqueo,2023-05-23,,2023-05-23
+43,11,192,,Reemplazo,2023-05-25,,2023-05-25
+44,11,390,,Bloqueo,2023-06-28,,2023-06-28
+45,11,135,,Bloqueo,2023-07-18,,2023-07-18
+46,11,223,,Bloqueo,2023-08-10,,2023-08-10
+47,11,185,,Reemplazo,2023-08-17,,2023-08-17
+48,13,435,,Bloqueo,2024-07-22,,2024-07-22
+49,13,276,,Bloqueo,2024-10-30,,2024-10-30
+50,13,299,,Bloqueo,2024-11-20,,2024-11-20
+51,13,279,,Reemplazo,2024-12-16,,2024-12-16
+52,13,283,,Reemplazo,2024-12-18,,2024-12-18
+53,13,284,,Reemplazo,2024-12-18,,2024-12-18
+54,13,484,,Bloqueo,2024-12-30,,2024-12-30
+55,13,428,,Bloqueo,2024-12-31,,2024-12-31
+56,13,448,,Bloqueo,2024-12-31,,2024-12-31
+57,14,555,Walter Emilio Delgado Yucra,FechaFinEjecucion,2025-02-19,2025-03-14,2025-03-13
+58,14,555,Walter Emilio Delgado Yucra,FechaFinEjecucion,2025-02-19,2025-03-13,2025-03-14
+59,14,554,Walter Emilio Delgado Yucra,Sprint Planning,2025-02-19,0025-02-18,2025-02-18
+60,14,621,Walter Emilio Delgado Yucra,Sprint Planning,2025-02-19,0225-02-18,2025-02-18
+61,14,554,Jose Leandro Machaca Soloaga,Cierre de proyecto en TM,2025-02-20,,2025-02-20
+62,14,558,Maria Olivarez,Sprint Planning,2025-02-24,,2025-02-18
+63,14,557,Yanina Mercedes Delfin Lazo,Sprint Planning,2025-02-24,,2025-02-18
+64,14,557,Yanina Mercedes Delfin Lazo,Envío Planning,2025-02-24,,2025-02-24
+65,14,588,Yanina Mercedes Delfin Lazo,PreWork,2025-02-24,,2025-02-04
+66,14,588,Yanina Mercedes Delfin Lazo,Sprint Planning,2025-02-24,,2025-02-18
+67,14,588,Yanina Mercedes Delfin Lazo,Envío Planning,2025-02-24,,2025-02-18
+68,14,588,Yanina Mercedes Delfin Lazo,Envío Primer Sprint,2025-02-24,,2025-02-19
+69,14,558,Yanina Mercedes Delfin Lazo,Envío Planning,2025-02-24,,2025-02-25
+70,14,560,Yanina Mercedes Delfin Lazo,PreWork,2025-02-24,2025-02-03,2025-02-04
+71,14,560,Yanina Mercedes Delfin Lazo,Sprint Planning,2025-02-24,,2025-02-18
+72,14,560,Yanina Mercedes Delfin Lazo,Envío Planning,2025-02-24,,2025-02-24
+73,14,556,Yanina Mercedes Delfin Lazo,Envío Planning,2025-02-24,,2025-02-24
+74,14,555,Yanina Mercedes Delfin Lazo,PreWork,2025-02-24,2025-01-31,2025-02-04
+75,14,555,Yanina Mercedes Delfin Lazo,Envío Planning,2025-02-24,2025-02-20,2025-02-24
+76,14,587,Yanina Mercedes Delfin Lazo,Envío Planning,2025-02-24,,2025-02-18
+77,14,587,Yanina Mercedes Delfin Lazo,PreWork,2025-02-24,,2025-02-18
+78,14,588,Yanina Mercedes Delfin Lazo,Sprint Planning,2025-02-24,2025-02-18,2025-02-04
+79,14,588,Yanina Mercedes Delfin Lazo,Envío Planning,2025-02-24,2025-02-18,2025-02-04
+80,14,588,Yanina Mercedes Delfin Lazo,Envío Primer Sprint,2025-02-24,2025-02-19,2025-02-04
+81,14,554,Miguel Vetter Mantari,FechaInicioEjecucion,2025-02-25,2025-01-13,2025-01-15
+82,14,554,Miguel Vetter Mantari,FechaFinEjecucion,2025-02-25,2025-03-07,2025-03-11
+83,14,621,Miguel Vetter Mantari,FechaInicioEjecucion,2025-02-25,2025-01-13,2025-01-15
+84,14,553,José Dolores Reyna Vargas,Envío Primer Sprint,2025-02-25,,2025-02-18
+85,14,553,José Dolores Reyna Vargas,Envío Primer Sprint,2025-02-25,2025-02-18,2025-02-19
+86,14,554,José Dolores Reyna Vargas,Envío Primer Sprint,2025-02-25,,2025-02-19
+87,14,621,José Dolores Reyna Vargas,Envío Primer Sprint,2025-03-03,,2025-02-19
+88,13,426,Luis Antonio Otazu,Entrega de Informe a la Gerencia,2025-03-03,,2025-02-28
+89,13,426,Luis Antonio Otazu,Emisión de Borrador de Informe,2025-03-03,,2025-02-28
+90,13,426,Luis Antonio Otazu,Emisión de  Informe,2025-03-03,,2025-02-28
+91,13,296,Luis Antonio Otazu,Entrega de Informe a la Gerencia,2025-03-03,,2025-02-28
+92,13,296,Luis Antonio Otazu,Emisión de Borrador de Informe,2025-03-03,,2025-02-28
+93,13,296,Luis Antonio Otazu,Emisión de  Informe,2025-03-03,,2025-02-28
+94,13,331,Luis Antonio Otazu,Emisión de Borrador de Informe,2025-03-03,,2025-01-20
+95,13,331,Luis Antonio Otazu,Emisión de  Informe,2025-03-03,,2025-01-20
+96,13,449,Luis Antonio Otazu,Emisión de Borrador de Informe,2025-03-03,,2025-01-20
+97,13,449,Luis Antonio Otazu,Emisión de  Informe,2025-03-03,,2025-01-20
+98,13,285,Jorge Portocarrero Colunge,Emisión de Borrador de Informe,2025-03-04,,2025-02-19
+99,13,286,Jorge Portocarrero Colunge,Emisión de Borrador de Informe,2025-03-04,,2025-02-18
+100,14,555,Deysi Micha Sánchez,Envío Primer Sprint,2025-03-05,,2025-03-04
+101,13,278,Luis Antonio Otazu,Emisión de Borrador de Informe,2025-03-05,,2025-03-05
+102,13,471,Luis Antonio Otazu,Emisión de Borrador de Informe,2025-03-05,,2024-12-12
+103,13,465,Jorge Portocarrero Colunge,Emisión de  Informe,2025-03-05,,2025-02-14
+104,13,337,Jorge Portocarrero Colunge,Emisión de  Informe,2025-03-05,,2025-02-14
+105,13,477,José Marcos Clímaco,Emisión de Borrador de Informe,2025-03-05,,2025-01-10
+106,13,477,José Marcos Clímaco,Emisión de  Informe,2025-03-05,,2025-01-10
+107,13,477,José Marcos Clímaco,Entrega de Informe a la Gerencia,2025-03-05,,2025-03-02
+108,13,477,José Marcos Clímaco,Entrega de Informe a la Gerencia,2025-03-05,2025-03-02,2024-12-02
+109,13,477,José Marcos Clímaco,Cierre de proyecto en TM,2025-03-05,,2024-12-02
+110,13,286,Dersy Fernández Jiménez,Envío Primer Sprint,2025-03-05,,2025-02-18
+111,13,286,Dersy Fernández Jiménez,Entrega de Informe a la Gerencia,2025-03-05,,2025-02-14
+112,13,286,Dersy Fernández Jiménez,Emisión de  Informe,2025-03-05,,2025-02-28
+113,13,285,Dersy Fernández Jiménez,Emisión de  Informe,2025-03-05,,2025-03-04
+114,13,285,Dersy Fernández Jiménez,Envío Primer Sprint,2025-03-05,,2025-03-17
+115,13,285,Dersy Fernández Jiménez,Entrega de Informe a la Gerencia,2025-03-05,,2025-02-17
+116,13,285,Dersy Fernández Jiménez,Envío Primer Sprint,2025-03-05,2025-03-17,2025-02-17
+117,13,286,Dersy Fernández Jiménez,Cierre de proyecto en TM,2025-03-05,,2025-03-03
+118,14,624,Jefferson Rojas Palomino,Sprint Planning,2025-03-05,,2025-02-04
+119,14,624,Jefferson Rojas Palomino,PreWork,2025-03-05,,2025-01-15
+120,14,624,Jefferson Rojas Palomino,Envío Planning,2025-03-05,,2025-02-04
+121,13,465,Luis Antonio Otazu,Emisión de Borrador de Informe,2025-03-05,,2025-02-14
+122,13,337,Luis Antonio Otazu,Emisión de Borrador de Informe,2025-03-05,,2025-02-14
+123,13,337,Jorge Portocarrero Colunge,FechaFinEjecucion,2025-03-06,2024-12-25,2025-01-31
+124,13,337,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-03-06,2024-09-15,2024-10-01
+125,13,465,Jorge Portocarrero Colunge,FechaFinEjecucion,2025-03-06,2024-12-31,2025-01-31
+126,14,624,Jefferson Rojas Palomino,Envío Primer Sprint,2025-03-06,,2025-02-14
+127,14,559,Jefferson Rojas Palomino,PreWork,2025-03-06,,2025-01-15
+128,14,559,Jefferson Rojas Palomino,Sprint Planning,2025-03-06,,2025-02-04
+129,14,559,Jefferson Rojas Palomino,Envío Planning,2025-03-06,,2025-02-04
+130,14,559,Jefferson Rojas Palomino,Envío Primer Sprint,2025-03-06,,2025-02-14
+131,13,459,Luis Antonio Otazu,Emisión de Borrador de Informe,2025-03-06,,2025-01-15
+132,14,622,Jefferson Rojas Palomino,PreWork,2025-03-06,,2025-01-15
+133,14,622,Jefferson Rojas Palomino,Sprint Planning,2025-03-06,,2025-02-04
+134,14,622,Jefferson Rojas Palomino,Envío Planning,2025-03-06,,2025-02-04
+135,14,622,Jefferson Rojas Palomino,Envío Primer Sprint,2025-03-06,,2025-02-27
+136,14,622,Jefferson Rojas Palomino,Envío Primer Sprint,2025-03-06,2025-02-27,2025-02-21
+137,14,664,Jorge Portocarrero Colunge,Envío Primer Sprint,2025-03-06,,2025-02-21
+138,14,623,Jefferson Rojas Palomino,PreWork,2025-03-06,,2025-01-15
+139,14,623,Jefferson Rojas Palomino,Sprint Planning,2025-03-06,,2025-02-04
+140,14,623,Jefferson Rojas Palomino,Envío Planning,2025-03-06,,2025-02-04
+141,14,556,Carlos Lobo Caballero,Envío Primer Sprint,2025-03-07,,2025-03-07
+142,13,255,Martin Augusto Celis Acevedo,FechaInicioEjecucion,2025-03-10,2024-10-14,2024-11-04
+143,13,255,Martin Augusto Celis Acevedo,Envío Primer Sprint,2025-03-10,,2024-11-25
+144,13,255,Martin Augusto Celis Acevedo,Retrospectiva,2025-03-10,,2024-11-27
+145,14,557,Yanina Mercedes Delfin Lazo,Envío Primer Sprint,2025-03-10,,2025-02-28
+146,13,256,Martin Augusto Celis Acevedo,Retrospectiva,2025-03-10,,2024-12-20
+147,14,560,Yanina Mercedes Delfin Lazo,Envío Primer Sprint,2025-03-10,,2025-03-05
+148,14,558,Yanina Mercedes Delfin Lazo,Envío Primer Sprint,2025-03-10,,2025-03-10
+149,13,256,Martin Augusto Celis Acevedo,Emisión de Borrador de Informe,2025-03-10,,2025-03-10
+150,13,256,Martin Augusto Celis Acevedo,Entrega de Informe a la Gerencia,2025-03-10,,2025-03-10
+151,13,255,Martin Augusto Celis Acevedo,Emisión de Borrador de Informe,2025-03-10,,2025-03-10
+152,13,255,Martin Augusto Celis Acevedo,Entrega de Informe a la Gerencia,2025-03-10,,2025-03-10
+153,13,475,,Bloqueo,2025-03-12,,2025-03-12
+154,13,478,,Bloqueo,2025-03-12,,2025-03-12
+155,14,624,Jefferson Rojas Palomino,Entrega de Informe a la Gerencia,2025-03-12,,2025-03-12
+156,14,559,Jefferson Rojas Palomino,Entrega de Informe a la Gerencia,2025-03-12,,2025-03-12
+157,14,624,Jefferson Rojas Palomino,Retrospectiva,2025-03-14,,2025-03-14
+158,14,624,Jefferson Rojas Palomino,Emisión de Borrador de Informe,2025-03-14,,2025-03-13
+159,14,559,Jefferson Rojas Palomino,Retrospectiva,2025-03-14,,2025-03-14
+160,14,559,Jefferson Rojas Palomino,Emisión de Borrador de Informe,2025-03-14,,2025-03-13
+161,14,667,Jorge Portocarrero Colunge,Sprint Planning,2025-03-18,,2025-03-13
+162,14,667,Jorge Portocarrero Colunge,Envío Planning,2025-03-18,,2025-03-14
+163,14,672,Jorge Portocarrero Colunge,Sprint Planning,2025-03-18,,2025-03-13
+164,14,672,Jorge Portocarrero Colunge,Envío Planning,2025-03-18,,2025-03-14
+165,14,678,Jorge Portocarrero Colunge,Sprint Planning,2025-03-18,,2025-03-13
+166,14,678,Jorge Portocarrero Colunge,Envío Planning,2025-03-18,,2025-03-14
+167,14,649,Jorge Portocarrero Colunge,Sprint Planning,2025-03-18,,2025-03-13
+168,14,650,Jorge Portocarrero Colunge,Sprint Planning,2025-03-18,,2025-03-13
+169,14,553,José Dolores Reyna Vargas,Envío Segundo Sprint,2025-03-18,,2025-03-10
+170,14,621,José Dolores Reyna Vargas,Envío Segundo Sprint,2025-03-18,,2025-03-10
+171,14,554,José Dolores Reyna Vargas,Envío Segundo Sprint,2025-03-18,,2025-03-10
+172,14,559,Jefferson Rojas Palomino,Emisión de  Informe,2025-03-18,,2025-03-18
+173,14,624,Jefferson Rojas Palomino,Emisión de  Informe,2025-03-18,,2025-03-18
+174,13,256,Martin Augusto Celis Acevedo,Emisión de  Informe,2025-03-19,,2025-03-18
+175,14,622,Jefferson Rojas Palomino,Entrega de Informe a la Gerencia,2025-03-19,,2025-03-19
+176,14,622,Jefferson Rojas Palomino,Envío Segundo Sprint,2025-03-20,,2025-03-10
+177,13,256,Martin Augusto Celis Acevedo,Cierre de proyecto en TM,2025-03-25,,2025-03-25
+178,14,667,Jorge Portocarrero Colunge,Envío Primer Sprint,2025-03-28,,2025-03-28
+179,14,672,Jorge Portocarrero Colunge,Envío Primer Sprint,2025-03-28,,2025-03-28
+180,14,649,Jorge Portocarrero Colunge,Envío Planning,2025-03-28,,2025-03-19
+181,14,650,Jorge Portocarrero Colunge,Envío Planning,2025-03-28,,2025-03-19
+182,14,587,Jose Leandro Machaca Soloaga,FechaInicioEjecucion,2025-04-04,2025-11-17,2025-02-25
+183,14,588,Jose Leandro Machaca Soloaga,FechaInicioEjecucion,2025-04-04,2025-11-19,2025-02-25
+184,13,268,Carlos Lobo Caballero,Entrega de Informe a la Gerencia,2025-04-04,,2025-03-27
+185,13,268,Carlos Lobo Caballero,Cierre de proyecto en TM,2025-04-04,,2025-03-31
+186,13,268,Carlos Lobo Caballero,Emisión de Borrador de Informe,2025-04-04,,2025-02-28
+187,13,268,Carlos Lobo Caballero,Emisión de Borrador de Informe,2025-04-04,2025-02-28,2025-03-28
+188,13,268,Carlos Lobo Caballero,Emisión de  Informe,2025-04-04,,2025-03-28
+189,13,266,Carlos Lobo Caballero,Emisión de  Informe,2025-04-04,,2025-01-10
+190,13,266,Carlos Lobo Caballero,Cierre de proyecto en TM,2025-04-04,,2025-01-10
+191,14,692,Carlos Lobo Caballero,Emisión de  Informe,2025-04-04,,2025-02-28
+192,14,692,Carlos Lobo Caballero,Emisión de Borrador de Informe,2025-04-04,,2025-02-28
+193,14,692,Carlos Lobo Caballero,Entrega de Informe a la Gerencia,2025-04-04,,2025-02-26
+194,14,692,Carlos Lobo Caballero,Cierre de proyecto en TM,2025-04-04,,2025-03-07
+195,14,693,Carlos Lobo Caballero,Entrega de Informe a la Gerencia,2025-04-04,,2025-02-26
+196,14,693,Carlos Lobo Caballero,Cierre de proyecto en TM,2025-04-04,,2025-03-07
+197,14,693,Carlos Lobo Caballero,Emisión de Borrador de Informe,2025-04-04,,2025-02-28
+198,14,693,Carlos Lobo Caballero,Emisión de  Informe,2025-04-04,,2025-02-28
+199,14,664,Jorge Portocarrero Colunge,Emisión de Borrador de Informe,2025-04-04,,2025-04-04
+200,14,664,Jorge Portocarrero Colunge,Entrega de Informe a la Gerencia,2025-04-04,,2025-03-21
+201,14,678,Jorge Portocarrero Colunge,Envío Primer Sprint,2025-04-04,,2025-03-31
+202,14,649,Jorge Portocarrero Colunge,Envío Primer Sprint,2025-04-04,,2025-04-04
+203,14,587,Jose Leandro Machaca Soloaga,Emisión de Borrador de Informe,2025-04-04,,2025-03-31
+204,14,587,Jose Leandro Machaca Soloaga,Emisión de  Informe,2025-04-04,,2025-04-03
+205,14,588,Jose Leandro Machaca Soloaga,Emisión de Borrador de Informe,2025-04-04,,2025-03-31
+206,14,588,Jose Leandro Machaca Soloaga,Emisión de  Informe,2025-04-04,,2025-04-03
+207,14,561,Miguel Vetter Mantari,FechaInicioEjecucion,2025-04-07,2025-03-17,2025-05-25
+208,14,562,Miguel Vetter Mantari,FechaInicioEjecucion,2025-04-07,2025-03-17,2025-08-24
+209,14,626,Miguel Vetter Mantari,FechaInicioEjecucion,2025-04-07,2025-03-17,2025-05-25
+210,14,627,Miguel Vetter Mantari,FechaInicioEjecucion,2025-04-07,2025-03-17,2025-08-25
+211,14,652,Miguel Vetter Mantari,FechaInicioEjecucion,2025-04-07,2025-07-15,2025-08-18
+212,14,664,Jorge Portocarrero Colunge,FechaFinEjecucion,2025-04-07,2025-02-21,2025-02-28
+213,14,675,Miguel Vetter Mantari,FechaInicioEjecucion,2025-04-07,2025-04-21,2025-08-25
+214,14,682,Miguel Vetter Mantari,FechaInicioEjecucion,2025-04-07,2025-07-01,2025-08-18
+215,14,664,Jorge Portocarrero Colunge,Emisión de  Informe,2025-04-07,,2025-04-07
+216,14,588,Yanina Mercedes Delfin Lazo,Retrospectiva,2025-04-07,,2025-04-07
+217,14,588,Yanina Mercedes Delfin Lazo,Entrega de Informe a la Gerencia,2025-04-07,,2025-04-03
+218,14,588,Yanina Mercedes Delfin Lazo,Cierre de proyecto en TM,2025-04-07,,2025-04-10
+219,14,587,Yanina Mercedes Delfin Lazo,Sprint Planning,2025-04-07,,
+220,14,587,Yanina Mercedes Delfin Lazo,Envío Primer Sprint,2025-04-07,,
+221,14,587,Yanina Mercedes Delfin Lazo,Sprint Planning,2025-04-07,,
+222,14,587,Yanina Mercedes Delfin Lazo,Sprint Planning,2025-04-07,,2025-03-11
+223,14,587,Yanina Mercedes Delfin Lazo,Envío Primer Sprint,2025-04-07,,2025-03-24
+224,14,587,Yanina Mercedes Delfin Lazo,Retrospectiva,2025-04-07,,2025-04-07
+225,14,587,Yanina Mercedes Delfin Lazo,Entrega de Informe a la Gerencia,2025-04-07,,2025-04-03
+226,14,587,Yanina Mercedes Delfin Lazo,Cierre de proyecto en TM,2025-04-07,,2025-04-10
+227,14,560,Yanina Mercedes Delfin Lazo,Retrospectiva,2025-04-07,,2025-04-07
+228,14,558,Yanina Mercedes Delfin Lazo,Retrospectiva,2025-04-07,,2025-04-08
+229,14,558,Yanina Mercedes Delfin Lazo,Retrospectiva,2025-04-07,2025-04-08,2025-04-07
+230,14,555,Yanina Mercedes Delfin Lazo,Envío Segundo Sprint,2025-04-07,,2025-03-31
+231,14,555,Yanina Mercedes Delfin Lazo,Retrospectiva,2025-04-07,,2025-04-07
+232,14,557,Yanina Mercedes Delfin Lazo,Retrospectiva,2025-04-07,,2025-04-04
+233,14,556,Yanina Mercedes Delfin Lazo,Retrospectiva,2025-04-07,,2025-04-07
+234,14,563,Jose Leandro Machaca Soloaga,FechaFinEjecucion,2025-04-10,2025-05-14,2025-05-13
+235,14,563,Jose Leandro Machaca Soloaga,FechaFinEjecucion,2025-04-10,2025-05-13,2025-05-14
+236,14,563,José Dolores Reyna Vargas,Envío Primer Sprint,2025-04-15,,2025-04-15
+237,13,255,Martin Augusto Celis Acevedo,Emisión de  Informe,2025-04-15,,2025-04-14
+238,13,255,Martin Augusto Celis Acevedo,Cierre de proyecto en TM,2025-04-15,,2025-04-15
+239,14,650,Jorge Portocarrero Colunge,Envío Primer Sprint,2025-04-23,,2025-04-23
+240,14,668,Jorge Portocarrero Colunge,PreWork,2025-04-23,,2025-04-14
+241,14,673,Jorge Portocarrero Colunge,PreWork,2025-04-23,,2025-04-14
+242,14,679,Jorge Portocarrero Colunge,PreWork,2025-04-23,,2025-04-14
+243,14,674,Jorge Portocarrero Colunge,PreWork,2025-04-23,,2025-04-14
+244,14,680,Jorge Portocarrero Colunge,PreWork,2025-04-23,,2025-04-14
+245,14,623,Jefferson Rojas Palomino,Emisión de Borrador de Informe,2025-04-23,,2025-04-15
+246,14,623,Jefferson Rojas Palomino,Envío Primer Sprint,2025-04-23,,2025-03-13
+247,14,623,Jefferson Rojas Palomino,Envío Segundo Sprint,2025-04-23,,2025-03-24
+248,14,623,Jefferson Rojas Palomino,Entrega de Informe a la Gerencia,2025-04-23,,2025-04-09
+249,14,622,Jefferson Rojas Palomino,Emisión de  Informe,2025-04-23,,2025-04-10
+250,14,622,Jefferson Rojas Palomino,Emisión de Borrador de Informe,2025-04-23,,2025-04-03
+251,14,644,Jefferson Rojas Palomino,Emisión de  Informe,2025-04-23,,2025-04-03
+252,14,644,Jefferson Rojas Palomino,Emisión de Borrador de Informe,2025-04-23,,2025-04-03
+253,14,563,José Dolores Reyna Vargas,FechaFinEjecucion,2025-04-24,2025-05-14,2025-05-15
+254,14,564,Jose Leandro Machaca Soloaga,FechaInicioEjecucion,2025-04-24,2025-03-19,2025-06-16
+255,14,565,Jose Leandro Machaca Soloaga,FechaInicioEjecucion,2025-04-24,2025-03-19,2025-04-21
+256,14,566,Jose Leandro Machaca Soloaga,FechaInicioEjecucion,2025-04-24,2025-03-19,2025-06-21
+257,14,572,Jose Leandro Machaca Soloaga,FechaInicioEjecucion,2025-04-24,2025-05-21,2025-06-23
+258,14,553,José Dolores Reyna Vargas,Retrospectiva,2025-04-24,,2024-04-14
+259,14,553,José Dolores Reyna Vargas,Entrega de Informe a la Gerencia,2025-04-24,,2025-03-20
+260,14,554,José Dolores Reyna Vargas,Retrospectiva,2025-04-24,,2025-04-14
+261,14,554,José Dolores Reyna Vargas,Entrega de Informe a la Gerencia,2025-04-24,,2025-03-23
+262,14,621,José Dolores Reyna Vargas,Retrospectiva,2025-04-24,,2025-04-14
+263,14,621,José Dolores Reyna Vargas,Entrega de Informe a la Gerencia,2025-04-24,,2025-03-23
+264,14,667,Jorge Portocarrero Colunge,Entrega de Informe a la Gerencia,2025-04-25,,2025-04-24
+265,14,672,Jorge Portocarrero Colunge,Entrega de Informe a la Gerencia,2025-04-25,,2025-04-24
+266,14,678,Jorge Portocarrero Colunge,Entrega de Informe a la Gerencia,2025-04-25,,2025-04-24
+267,14,555,Deysi Micha Sánchez,Entrega de Informe a la Gerencia,2025-04-28,,2025-04-23
+268,14,555,Deysi Micha Sánchez,Emisión de Borrador de Informe,2025-04-28,,2025-04-25
+269,14,668,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-04-29,2025-04-14,2025-04-21
+270,14,673,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-04-29,2025-04-14,2025-04-21
+271,14,674,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-04-29,2025-04-14,2025-04-21
+272,14,674,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-04-29,2025-04-21,2025-04-28
+273,14,679,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-04-29,2025-04-14,2025-04-21
+274,14,680,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-04-29,2025-04-14,2025-04-21
+275,14,680,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-04-29,2025-04-21,2025-04-28
+276,14,623,Jefferson Rojas Palomino,Emisión de  Informe,2025-04-29,,2025-04-29
+277,14,623,Jefferson Rojas Palomino,Retrospectiva,2025-04-29,,2025-04-29
+278,14,622,Jefferson Rojas Palomino,Cierre de proyecto en TM,2025-04-29,,2025-04-21
+279,14,622,Jefferson Rojas Palomino,Retrospectiva,2025-04-29,,2025-04-25
+280,14,667,Jorge Portocarrero Colunge,Emisión de Borrador de Informe,2025-04-30,,2025-04-30
+281,14,672,Jorge Portocarrero Colunge,Emisión de Borrador de Informe,2025-04-30,,2025-04-30
+282,14,678,Jorge Portocarrero Colunge,Emisión de Borrador de Informe,2025-04-30,,2025-04-30
+283,14,664,Jorge Portocarrero Colunge,Cierre de proyecto en TM,2025-04-30,,2025-04-30
+284,14,651,Miguel Vetter Mantari,FechaInicioEjecucion,2025-05-02,2025-02-10,2025-07-14
+285,14,665,Miguel Vetter Mantari,FechaInicioEjecucion,2025-05-02,2025-02-10,2025-08-24
+286,14,674,Jorge Portocarrero Colunge,FechaFinEjecucion,2025-05-02,2025-06-16,2025-06-09
+287,14,674,Jorge Portocarrero Colunge,FechaFinEjecucion,2025-05-02,2025-06-09,2025-06-16
+288,14,674,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-05-02,2025-04-28,2025-04-21
+289,14,680,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-05-02,2025-04-28,2025-04-14
+290,14,667,Jorge Portocarrero Colunge,Emisión de Borrador de Informe,2025-05-02,2025-04-30,2025-04-29
+291,14,667,Jorge Portocarrero Colunge,Emisión de  Informe,2025-05-02,,2025-04-30
+292,14,672,Jorge Portocarrero Colunge,Emisión de Borrador de Informe,2025-05-02,2025-04-30,2025-04-29
+293,14,672,Jorge Portocarrero Colunge,Emisión de  Informe,2025-05-02,,2025-05-30
+294,14,678,Jorge Portocarrero Colunge,Emisión de  Informe,2025-05-02,,2025-04-30
+295,14,678,Jorge Portocarrero Colunge,Emisión de Borrador de Informe,2025-05-02,2025-04-30,2025-04-29
+296,14,672,Jorge Portocarrero Colunge,Emisión de  Informe,2025-05-02,2025-05-30,2025-04-30
+297,14,649,Jorge Portocarrero Colunge,Emisión de Borrador de Informe,2025-05-05,,2025-04-29
+298,14,649,Jorge Portocarrero Colunge,Emisión de  Informe,2025-05-05,,2025-04-30
+299,14,649,Jorge Portocarrero Colunge,Entrega de Informe a la Gerencia,2025-05-05,,2025-04-29
+300,14,565,Carlos Lobo Caballero,PreWork,2025-05-05,,2025-04-14
+301,14,565,Carlos Lobo Caballero,Sprint Planning,2025-05-05,,2025-04-30
+302,14,558,Yanina Mercedes Delfin Lazo,Entrega de Informe a la Gerencia,2025-05-05,,2025-04-24
+303,14,560,Yanina Mercedes Delfin Lazo,Emisión de  Informe,2025-05-05,,2025-04-25
+304,14,560,Yanina Mercedes Delfin Lazo,Entrega de Informe a la Gerencia,2025-05-05,,2025-04-16
+305,14,560,Yanina Mercedes Delfin Lazo,Cierre de proyecto en TM,2025-05-05,,2025-05-05
+306,14,557,Yanina Mercedes Delfin Lazo,Entrega de Informe a la Gerencia,2025-05-05,,2025-04-16
+307,14,557,Yanina Mercedes Delfin Lazo,Emisión de Borrador de Informe,2025-05-05,,2025-04-16
+308,14,557,Yanina Mercedes Delfin Lazo,Cierre de proyecto en TM,2025-05-05,,2025-05-02
+309,14,557,Yanina Mercedes Delfin Lazo,Emisión de  Informe,2025-05-05,,2025-04-25
+310,14,556,Yanina Mercedes Delfin Lazo,Entrega de Informe a la Gerencia,2025-05-05,,2025-04-16
+311,14,556,Yanina Mercedes Delfin Lazo,Cierre de proyecto en TM,2025-05-05,,2025-05-02
+312,14,556,Yanina Mercedes Delfin Lazo,Emisión de Borrador de Informe,2025-05-05,,2025-04-16
+313,14,556,Yanina Mercedes Delfin Lazo,Emisión de  Informe,2025-05-05,,2025-04-25
+314,14,737,Yanina Mercedes Delfin Lazo,PreWork,2025-05-05,,2025-04-14
+315,14,737,Yanina Mercedes Delfin Lazo,Sprint Planning,2025-05-05,,
+316,14,737,Yanina Mercedes Delfin Lazo,Envío Planning,2025-05-05,,
+317,14,737,Yanina Mercedes Delfin Lazo,Envío Planning,2025-05-05,,2025-04-30
+318,14,737,Yanina Mercedes Delfin Lazo,Sprint Planning,2025-05-05,,2025-04-30
+319,14,737,Yanina Mercedes Delfin Lazo,Envío Primer Sprint,2025-05-05,,2025-05-05
+320,14,737,Yanina Mercedes Delfin Lazo,Envío Segundo Sprint,2025-05-05,,2025-05-05
+321,14,738,Yanina Mercedes Delfin Lazo,PreWork,2025-05-05,,
+322,14,738,Yanina Mercedes Delfin Lazo,Sprint Planning,2025-05-05,,
+323,14,738,Yanina Mercedes Delfin Lazo,Envío Planning,2025-05-05,,2025-04-14
+324,14,738,Yanina Mercedes Delfin Lazo,PreWork,2025-05-05,,2025-04-14
+325,14,738,Yanina Mercedes Delfin Lazo,Sprint Planning,2025-05-05,,2025-04-30
+326,14,738,Yanina Mercedes Delfin Lazo,Envío Planning,2025-05-05,2025-04-14,2025-04-30
+327,14,738,Yanina Mercedes Delfin Lazo,Envío Primer Sprint,2025-05-05,,2025-05-05
+328,14,738,Yanina Mercedes Delfin Lazo,Envío Segundo Sprint,2025-05-05,,2025-05-05
+329,14,570,Yanina Mercedes Delfin Lazo,PreWork,2025-05-05,,2025-04-14
+330,14,570,Yanina Mercedes Delfin Lazo,Sprint Planning,2025-05-05,,2025-04-30
+331,14,570,Yanina Mercedes Delfin Lazo,Envío Planning,2025-05-05,,2025-05-05
+332,14,570,Yanina Mercedes Delfin Lazo,Envío Primer Sprint,2025-05-05,,2025-05-23
+333,14,565,Yanina Mercedes Delfin Lazo,Envío Planning,2025-05-05,,2025-05-05
+334,14,565,Yanina Mercedes Delfin Lazo,Envío Primer Sprint,2025-05-05,,2025-05-30
+335,14,567,Yanina Mercedes Delfin Lazo,PreWork,2025-05-05,,2025-04-14
+336,14,567,Yanina Mercedes Delfin Lazo,Sprint Planning,2025-05-05,,2025-04-30
+337,14,567,Yanina Mercedes Delfin Lazo,Envío Planning,2025-05-05,,2025-05-05
+338,14,567,Yanina Mercedes Delfin Lazo,Envío Primer Sprint,2025-05-05,,2025-05-07
+339,14,628,Jose Leandro Machaca Soloaga,FechaInicioEjecucion,2025-05-06,2025-04-07,2025-09-19
+340,14,553,Miguel Vetter Mantari,Emisión de Borrador de Informe,2025-05-06,,2025-04-23
+341,14,554,Miguel Vetter Mantari,Emisión de Borrador de Informe,2025-05-06,,2025-04-23
+342,14,621,Miguel Vetter Mantari,Emisión de Borrador de Informe,2025-05-06,,2025-04-23
+343,14,625,Jefferson Rojas Palomino,PreWork,2025-05-06,,2025-03-11
+344,14,625,Jefferson Rojas Palomino,Sprint Planning,2025-05-06,,2025-03-31
+345,14,625,Jefferson Rojas Palomino,Envío Planning,2025-05-06,,2025-03-31
+346,14,625,Jefferson Rojas Palomino,Envío Primer Sprint,2025-05-06,,2025-04-15
+347,14,623,Jefferson Rojas Palomino,Cierre de proyecto en TM,2025-05-06,,2025-05-05
+348,14,624,Jefferson Rojas Palomino,Cierre de proyecto en TM,2025-05-06,,2025-05-05
+349,14,558,Yanina Mercedes Delfin Lazo,Emisión de Borrador de Informe,2025-05-06,,2025-04-24
+350,14,559,Jefferson Rojas Palomino,Cierre de proyecto en TM,2025-05-06,,2025-05-05
+351,14,560,Yanina Mercedes Delfin Lazo,Emisión de Borrador de Informe,2025-05-06,,2025-04-16
+352,14,555,Guillermo Nicolás Cueva Díaz,FechaInicioEjecucion,2025-05-09,2025-01-20,2025-02-04
+353,14,555,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-05-09,2025-04-30,2025-03-31
+354,14,556,Guillermo Nicolás Cueva Díaz,FechaInicioEjecucion,2025-05-09,2025-01-20,2025-02-04
+355,14,674,Jorge Portocarrero Colunge,FechaFinEjecucion,2025-05-09,2025-06-16,2025-06-10
+356,14,680,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-05-09,2025-04-14,2025-04-21
+357,14,553,José Dolores Reyna Vargas,Cierre de proyecto en TM,2025-05-12,,2025-05-05
+358,14,554,José Dolores Reyna Vargas,Cierre de proyecto en TM,2025-05-12,,2025-05-05
+359,14,621,José Dolores Reyna Vargas,Cierre de proyecto en TM,2025-05-12,,2025-05-05
+360,14,563,José Dolores Reyna Vargas,Sprint Planning,2025-05-12,,2025-04-30
+361,14,563,José Dolores Reyna Vargas,PreWork,2025-05-12,,2025-04-30
+362,14,563,José Dolores Reyna Vargas,Envío Planning,2025-05-12,,2025-04-30
+363,14,553,Jose Leandro Machaca Soloaga,FechaFinEjecucion,2025-05-14,2025-03-11,2025-03-12
+364,14,553,Jose Leandro Machaca Soloaga,FechaFinEjecucion,2025-05-14,2025-03-12,2025-03-11
+365,14,557,Guillermo Nicolás Cueva Díaz,FechaInicioEjecucion,2025-05-14,2025-01-20,2025-02-04
+366,14,558,Guillermo Nicolás Cueva Díaz,FechaInicioEjecucion,2025-05-14,2025-01-20,2025-02-04
+367,14,560,Guillermo Nicolás Cueva Díaz,FechaInicioEjecucion,2025-05-14,2025-01-27,2025-02-04
+368,14,561,Guillermo Nicolás Cueva Díaz,FechaInicioEjecucion,2025-05-14,2025-05-25,2025-08-18
+369,14,564,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-05-14,2025-08-12,2025-09-02
+370,14,566,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-05-14,2025-09-09,2025-09-30
+371,14,568,Guillermo Nicolás Cueva Díaz,FechaInicioEjecucion,2025-05-14,2025-05-19,2025-05-30
+372,14,571,Guillermo Nicolás Cueva Díaz,FechaInicioEjecucion,2025-05-14,2025-05-21,2025-06-23
+373,14,587,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-05-14,2025-03-20,2025-04-03
+374,14,588,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-05-14,2025-03-20,2025-04-03
+375,14,626,Guillermo Nicolás Cueva Díaz,FechaInicioEjecucion,2025-05-14,2025-05-25,2025-08-18
+376,14,627,Guillermo Nicolás Cueva Díaz,FechaInicioEjecucion,2025-05-14,2025-08-25,2025-08-18
+377,14,629,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-05-14,2025-06-20,2025-06-16
+378,14,630,Guillermo Nicolás Cueva Díaz,FechaInicioEjecucion,2025-05-14,2025-05-19,2025-05-30
+379,14,631,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-05-14,2025-08-07,2025-07-31
+380,14,632,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-05-14,2025-08-07,2025-07-31
+381,14,633,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-05-14,2025-08-22,2025-08-15
+382,14,634,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-05-14,2025-10-10,2025-10-16
+383,14,635,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-05-14,2025-10-10,2025-10-16
+384,14,638,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-05-14,2025-10-27,2025-10-16
+385,14,639,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-05-14,2025-12-16,2025-12-15
+386,14,640,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-05-14,2025-12-29,2025-12-19
+387,14,641,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-05-14,2025-12-31,2025-12-19
+388,14,642,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-05-14,2025-12-16,2025-12-01
+389,14,643,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-05-14,2025-12-31,2025-12-17
+390,14,644,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-05-14,2025-12-31,2025-12-19
+391,14,645,Guillermo Nicolás Cueva Díaz,FechaInicioEjecucion,2025-05-14,2025-03-01,2025-03-03
+392,14,651,Guillermo Nicolás Cueva Díaz,FechaInicioEjecucion,2025-05-14,2025-07-14,2025-08-18
+393,14,652,Guillermo Nicolás Cueva Díaz,FechaInicioEjecucion,2025-05-14,2025-08-18,2025-10-20
+394,14,665,Guillermo Nicolás Cueva Díaz,FechaInicioEjecucion,2025-05-14,2025-08-24,2025-08-18
+395,14,682,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-05-14,2025-08-29,2025-09-10
+396,14,687,Guillermo Nicolás Cueva Díaz,FechaInicioEjecucion,2025-05-14,2025-09-04,2025-10-20
+397,14,689,Guillermo Nicolás Cueva Díaz,FechaInicioEjecucion,2025-05-14,2025-11-10,2025-10-20
+398,14,692,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-05-14,2025-01-29,2025-02-20
+399,14,693,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-05-14,2025-01-29,2025-02-20
+400,14,694,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-05-14,2025-03-21,2025-04-15
+401,14,695,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-05-14,2025-03-21,2025-04-15
+402,14,698,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-05-14,2025-07-11,2025-08-11
+403,14,699,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-05-14,2025-07-11,2025-08-13
+404,14,700,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-05-14,2025-10-03,2025-10-10
+405,14,701,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-05-14,2025-10-03,2025-10-10
+406,14,702,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-05-14,2025-12-01,2025-12-08
+407,14,703,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-05-14,2025-12-01,2025-12-08
+408,14,704,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-05-14,2025-12-01,2025-12-08
+409,14,705,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-05-14,2025-11-21,2025-11-28
+410,14,706,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-05-14,2025-11-21,2025-11-28
+411,14,707,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-05-14,2025-11-21,2025-11-28
+412,14,708,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-05-14,2025-11-21,2025-11-28
+413,14,563,José Dolores Reyna Vargas,Envío Segundo Sprint,2025-05-15,,2025-05-13
+414,14,649,Jorge Portocarrero Colunge,Cierre de proyecto en TM,2025-05-20,,2025-05-12
+415,14,625,Jefferson Rojas Palomino,Emisión de Borrador de Informe,2025-05-23,,2025-05-14
+416,14,629,Jefferson Rojas Palomino,PreWork,2025-05-23,,2025-05-21
+417,14,625,Jefferson Rojas Palomino,Entrega de Informe a la Gerencia,2025-05-23,,2025-05-12
+418,14,625,Jefferson Rojas Palomino,Emisión de  Informe,2025-05-23,,2025-05-23
+419,14,625,Jefferson Rojas Palomino,Retrospectiva,2025-05-23,,2025-05-23
+420,14,667,Jorge Portocarrero Colunge,Cierre de proyecto en TM,2025-05-29,,2025-05-29
+421,14,672,Jorge Portocarrero Colunge,Cierre de proyecto en TM,2025-05-29,,
+422,14,672,Jorge Portocarrero Colunge,Cierre de proyecto en TM,2025-05-29,,2025-05-29
+423,14,678,Jorge Portocarrero Colunge,Cierre de proyecto en TM,2025-05-29,,2025-05-29
+424,14,650,Jorge Portocarrero Colunge,Entrega de Informe a la Gerencia,2025-05-29,,2025-05-29
+425,14,646,Jefferson Rojas Palomino,Emisión de  Informe,2025-05-30,,2025-05-22
+426,14,646,Jefferson Rojas Palomino,Emisión de Borrador de Informe,2025-05-30,,2025-05-20
+427,14,646,Jefferson Rojas Palomino,Entrega de Informe a la Gerencia,2025-05-30,,2025-05-20
+428,14,625,Jefferson Rojas Palomino,Cierre de proyecto en TM,2025-05-30,,2025-05-30
+429,14,737,Yanina Mercedes Delfin Lazo,Retrospectiva,2025-05-30,,2025-05-30
+430,14,625,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-06-03,2025-04-22,2025-04-29
+431,14,625,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-06-03,2025-04-29,2025-04-22
+432,14,555,Deysi Micha Sánchez,Emisión de  Informe,2025-06-03,,2025-04-30
+433,14,569,Deysi Micha Sánchez,PreWork,2025-06-03,,2025-06-06
+434,14,629,Jefferson Rojas Palomino,Envío Planning,2025-06-03,,2025-06-03
+435,14,629,Jefferson Rojas Palomino,Sprint Planning,2025-06-03,,2025-06-03
+436,14,650,Jorge Portocarrero Colunge,Emisión de Borrador de Informe,2025-06-03,,2025-05-30
+437,14,689,,Reemplazo,2025-06-09,,2025-06-09
+438,14,679,Jorge Portocarrero Colunge,Envío Planning,2025-06-09,,2025-06-09
+439,14,679,Jorge Portocarrero Colunge,Sprint Planning,2025-06-09,,2025-06-03
+440,14,673,Jorge Portocarrero Colunge,Sprint Planning,2025-06-09,,2025-06-03
+441,14,673,Jorge Portocarrero Colunge,Envío Planning,2025-06-09,,2025-06-04
+442,14,668,Jorge Portocarrero Colunge,Sprint Planning,2025-06-09,,2025-06-03
+443,14,668,Jorge Portocarrero Colunge,Envío Planning,2025-06-09,,2025-06-04
+444,14,674,Jorge Portocarrero Colunge,Sprint Planning,2025-06-09,,2025-06-03
+445,14,674,Jorge Portocarrero Colunge,Envío Planning,2025-06-09,,2025-06-03
+446,14,680,Jorge Portocarrero Colunge,Sprint Planning,2025-06-09,,2025-06-03
+447,14,680,Jorge Portocarrero Colunge,Envío Planning,2025-06-09,,2025-06-03
+448,14,562,,Reemplazo,2025-06-16,,2025-06-16
+449,14,561,Miguel Vetter Mantari,FechaInicioEjecucion,2025-06-17,2025-08-18,2025-08-04
+450,14,568,Miguel Vetter Mantari,FechaInicioEjecucion,2025-06-17,2025-05-30,2025-08-04
+451,14,578,Miguel Vetter Mantari,FechaInicioEjecucion,2025-06-17,2025-08-18,2025-10-20
+452,14,626,Miguel Vetter Mantari,FechaInicioEjecucion,2025-06-17,2025-08-18,2025-08-04
+453,14,630,Miguel Vetter Mantari,FechaInicioEjecucion,2025-06-17,2025-05-30,2025-08-04
+454,14,636,Miguel Vetter Mantari,FechaInicioEjecucion,2025-06-17,2025-08-18,2025-10-20
+455,14,637,Miguel Vetter Mantari,FechaInicioEjecucion,2025-06-17,2025-08-18,2025-10-20
+456,14,651,Miguel Vetter Mantari,FechaFinEjecucion,2025-06-17,2025-09-10,2025-10-01
+457,14,565,,Reemplazo,2025-06-18,,2025-06-18
+458,14,674,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-06-18,2025-04-21,2025-05-05
+459,14,679,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-06-18,2025-04-21,2025-05-16
+460,14,684,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-06-18,2025-06-16,2025-08-07
+461,14,686,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-06-18,2025-08-07,2025-06-16
+462,14,650,Jorge Portocarrero Colunge,Emisión de  Informe,2025-06-18,,2025-06-16
+463,14,650,Jorge Portocarrero Colunge,Cierre de proyecto en TM,2025-06-18,,2025-06-18
+464,14,675,,Reemplazo,2025-06-19,,2025-06-19
+465,14,674,Jorge Portocarrero Colunge,Envío Primer Sprint,2025-06-23,,2025-06-23
+466,14,680,Jorge Portocarrero Colunge,Envío Primer Sprint,2025-06-23,,2025-06-23
+467,14,652,Miguel Vetter Mantari,FechaInicioEjecucion,2025-06-25,2025-10-20,2025-05-26
+468,14,682,Miguel Vetter Mantari,FechaInicioEjecucion,2025-06-25,2025-08-18,2025-05-26
+469,14,687,Miguel Vetter Mantari,FechaInicioEjecucion,2025-06-25,2025-10-20,2025-05-26
+470,14,689,Miguel Vetter Mantari,FechaInicioEjecucion,2025-06-25,2025-10-20,2025-05-26
+471,14,741,Miguel Vetter Mantari,FechaFinEjecucion,2025-06-25,2025-07-21,2025-07-24
+472,14,742,Miguel Vetter Mantari,FechaFinEjecucion,2025-06-25,2025-07-21,2025-07-24
+473,14,696,Carlos Lobo Caballero,FechaInicioEjecucion,2025-06-26,2025-04-23,2025-05-05
+474,14,668,Jorge Portocarrero Colunge,Envío Primer Sprint,2025-07-01,,2025-06-25
+475,14,668,Jorge Portocarrero Colunge,Emisión de Borrador de Informe,2025-07-01,,2025-06-30
+476,14,673,Jorge Portocarrero Colunge,Envío Primer Sprint,2025-07-01,,2025-06-25
+477,14,673,Jorge Portocarrero Colunge,Emisión de Borrador de Informe,2025-07-01,,2025-06-30
+478,14,679,Jorge Portocarrero Colunge,Envío Primer Sprint,2025-07-01,,2025-06-25
+479,14,698,Carlos Lobo Caballero,FechaInicioEjecucion,2025-07-02,2025-06-16,2025-06-23
+480,14,699,Carlos Lobo Caballero,FechaInicioEjecucion,2025-07-02,2025-06-16,2025-06-23
+481,14,701,Carlos Lobo Caballero,FechaInicioEjecucion,2025-07-02,2025-08-18,2025-08-25
+482,14,702,Carlos Lobo Caballero,FechaInicioEjecucion,2025-07-02,2025-10-14,2025-10-21
+483,14,703,Carlos Lobo Caballero,FechaInicioEjecucion,2025-07-02,2025-10-14,2025-10-21
+484,14,704,Carlos Lobo Caballero,FechaInicioEjecucion,2025-07-02,2025-10-14,2025-10-21
+485,14,710,Carlos Lobo Caballero,FechaInicioEjecucion,2025-07-02,2025-07-08,2025-07-01
+486,14,711,Carlos Lobo Caballero,FechaInicioEjecucion,2025-07-02,2025-10-08,2025-10-01
+487,14,712,Carlos Lobo Caballero,FechaInicioEjecucion,2025-07-02,2026-01-08,2026-01-05
+488,14,629,Jefferson Rojas Palomino,Entrega de Informe a la Gerencia,2025-07-03,,2025-07-02
+489,14,629,Jefferson Rojas Palomino,Emisión de Borrador de Informe,2025-07-03,,2025-07-03
+490,14,629,Jefferson Rojas Palomino,Emisión de Borrador de Informe,2025-07-03,2025-07-03,2025-06-30
+491,14,629,Jefferson Rojas Palomino,Envío Primer Sprint,2025-07-03,,2025-06-16
+492,14,682,Guillermo Nicolás Cueva Díaz,FechaFinEjecucion,2025-07-04,2025-04-24,2025-07-24
+493,14,734,Guillermo Nicolás Cueva Díaz,FechaInicioEjecucion,2025-07-04,2025-01-20,2025-04-21
+494,14,555,Yanina Mercedes Delfin Lazo,Cierre de proyecto en TM,2025-07-04,,2025-04-25
+495,14,555,Yanina Mercedes Delfin Lazo,Cierre de proyecto en TM,2025-07-04,2025-04-25,2025-04-30
+496,14,558,Yanina Mercedes Delfin Lazo,Cierre de proyecto en TM,2025-07-04,,2025-05-08
+497,14,558,Yanina Mercedes Delfin Lazo,Emisión de  Informe,2025-07-04,,2025-05-08
+498,14,567,Yanina Mercedes Delfin Lazo,Retrospectiva,2025-07-04,,2025-07-03
+499,14,567,Yanina Mercedes Delfin Lazo,Entrega de Informe a la Gerencia,2025-07-04,,2025-07-04
+500,14,567,Yanina Mercedes Delfin Lazo,Emisión de Borrador de Informe,2025-07-04,,2025-07-04
+501,14,567,Yanina Mercedes Delfin Lazo,Emisión de  Informe,2025-07-04,,2025-07-07
+502,14,567,Yanina Mercedes Delfin Lazo,Cierre de proyecto en TM,2025-07-04,,2025-07-04
+503,14,564,Yanina Mercedes Delfin Lazo,PreWork,2025-07-04,,2025-06-27
+504,14,564,Yanina Mercedes Delfin Lazo,Sprint Planning,2025-07-04,,2025-07-10
+505,14,564,Yanina Mercedes Delfin Lazo,Envío Planning,2025-07-04,,2025-07-18
+506,14,565,Yanina Mercedes Delfin Lazo,Retrospectiva,2025-07-04,,2025-07-07
+507,14,565,Yanina Mercedes Delfin Lazo,Retrospectiva,2025-07-04,2025-07-07,2025-07-04
+508,14,565,Yanina Mercedes Delfin Lazo,Emisión de Borrador de Informe,2025-07-04,,2025-06-30
+509,14,565,Yanina Mercedes Delfin Lazo,Entrega de Informe a la Gerencia,2025-07-04,,2025-06-30
+510,14,566,Yanina Mercedes Delfin Lazo,PreWork,2025-07-04,,2025-06-27
+511,14,566,Yanina Mercedes Delfin Lazo,Sprint Planning,2025-07-04,,2025-07-10
+512,14,566,Yanina Mercedes Delfin Lazo,Envío Planning,2025-07-04,,2025-07-11
+513,14,569,Yanina Mercedes Delfin Lazo,Sprint Planning,2025-07-04,,2025-07-10
+514,14,569,Yanina Mercedes Delfin Lazo,Envío Planning,2025-07-04,,2025-07-11
+515,14,570,Yanina Mercedes Delfin Lazo,Envío Primer Sprint,2025-07-04,2025-05-23,2025-06-27
+516,14,570,Yanina Mercedes Delfin Lazo,Retrospectiva,2025-07-04,,2025-07-03
+517,14,570,Yanina Mercedes Delfin Lazo,Entrega de Informe a la Gerencia,2025-07-04,,2025-06-30
+518,14,570,Yanina Mercedes Delfin Lazo,Emisión de Borrador de Informe,2025-07-04,,2025-06-30
+519,14,567,Yanina Mercedes Delfin Lazo,Emisión de Borrador de Informe,2025-07-04,2025-07-04,2025-06-30
+520,14,567,Yanina Mercedes Delfin Lazo,Emisión de  Informe,2025-07-04,2025-07-07,2025-06-30
+521,14,567,Yanina Mercedes Delfin Lazo,Entrega de Informe a la Gerencia,2025-07-04,2025-07-04,2025-06-30
+522,14,572,Yanina Mercedes Delfin Lazo,PreWork,2025-07-04,,2025-07-06
+523,14,572,Yanina Mercedes Delfin Lazo,Sprint Planning,2025-07-04,,2025-06-26
+524,14,572,Yanina Mercedes Delfin Lazo,PreWork,2025-07-04,2025-07-06,2025-06-06
+525,14,571,Yanina Mercedes Delfin Lazo,PreWork,2025-07-04,,2025-06-27
+526,14,571,Yanina Mercedes Delfin Lazo,Sprint Planning,2025-07-04,,2025-07-10
+527,14,571,Yanina Mercedes Delfin Lazo,Envío Planning,2025-07-04,,2025-07-11
+528,14,738,Yanina Mercedes Delfin Lazo,Entrega de Informe a la Gerencia,2025-07-04,,2025-06-30
+529,14,738,Yanina Mercedes Delfin Lazo,Emisión de Borrador de Informe,2025-07-04,,2025-06-30
+530,14,740,Yanina Mercedes Delfin Lazo,Entrega de Informe a la Gerencia,2025-07-04,,2025-06-30
+531,14,740,Yanina Mercedes Delfin Lazo,Emisión de Borrador de Informe,2025-07-04,,2025-06-30
+532,14,737,Yanina Mercedes Delfin Lazo,Tercer Sprint,2025-07-04,,2025-06-04
+533,14,737,Yanina Mercedes Delfin Lazo,Entrega de Informe a la Gerencia,2025-07-04,,2025-06-04
+534,14,737,Yanina Mercedes Delfin Lazo,Emisión de  Informe,2025-07-04,,2025-06-04
+535,14,734,Yanina Mercedes Delfin Lazo,PreWork,2025-07-04,,2025-04-14
+536,14,734,Yanina Mercedes Delfin Lazo,Sprint Planning,2025-07-04,,2025-04-30
+537,14,734,Yanina Mercedes Delfin Lazo,Envío Planning,2025-07-04,,2025-05-05
+538,14,734,Yanina Mercedes Delfin Lazo,Envío Primer Sprint,2025-07-04,,2025-05-05
+539,14,734,Yanina Mercedes Delfin Lazo,Retrospectiva,2025-07-04,,2025-06-30
+540,14,734,Yanina Mercedes Delfin Lazo,Entrega de Informe a la Gerencia,2025-07-04,,2025-06-30
+541,14,734,Yanina Mercedes Delfin Lazo,Emisión de Borrador de Informe,2025-07-04,,2025-06-30
+542,14,563,Guillermo Nicolás Cueva Díaz,Emisión de Borrador de Informe,2025-07-04,,2025-06-30
+543,14,743,Guillermo Nicolás Cueva Díaz,Emisión de Borrador de Informe,2025-07-04,,2025-06-30
+544,14,668,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-07-07,2025-04-21,2025-04-14
+545,14,673,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-07-07,2025-04-21,2025-04-14
+546,14,674,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-07-07,2025-04-14,2025-04-21
+547,14,674,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-07-07,2025-05-05,2025-04-14
+548,14,679,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-07-07,2025-05-16,2025-04-14
+549,14,680,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-07-07,2025-04-21,2025-04-14
+550,14,590,Yanina Mercedes Delfin Lazo,Entrega de Informe a la Gerencia,2025-07-07,,2025-05-20
+551,14,590,Yanina Mercedes Delfin Lazo,Emisión de Borrador de Informe,2025-07-07,,2025-05-20
+552,14,590,Yanina Mercedes Delfin Lazo,Emisión de  Informe,2025-07-07,,2025-05-20
+553,14,737,Yanina Mercedes Delfin Lazo,Emisión de Borrador de Informe,2025-07-07,,2025-06-04
+554,14,654,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-07-09,2025-10-13,2025-08-04
+555,14,654,Jorge Portocarrero Colunge,FechaFinEjecucion,2025-07-09,2025-10-08,2025-10-06
+556,14,655,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-07-09,2025-10-13,2025-08-04
+557,14,669,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-07-09,2025-06-16,2025-10-06
+558,14,671,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-07-09,2025-10-20,2025-08-04
+559,14,676,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-07-09,2025-08-22,2025-12-01
+560,14,677,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-07-09,2025-10-20,2025-08-04
+561,14,681,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-07-09,2025-06-16,2025-10-09
+562,14,683,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-07-09,2025-10-20,2025-08-04
+563,14,684,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-07-09,2025-08-07,2025-10-06
+564,14,685,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-07-09,2025-06-16,2025-10-09
+565,14,631,Jefferson Rojas Palomino,Sprint Planning,2025-07-10,,2025-07-04
+566,14,631,Jefferson Rojas Palomino,PreWork,2025-07-10,,2025-06-17
+567,14,633,Jefferson Rojas Palomino,Sprint Planning,2025-07-15,,2025-07-15
+568,14,633,Jefferson Rojas Palomino,PreWork,2025-07-15,,2025-07-04
+569,14,634,Jefferson Rojas Palomino,PreWork,2025-07-15,,2025-07-04
+570,14,629,Jefferson Rojas Palomino,Retrospectiva,2025-07-16,,2025-07-16
+571,14,629,Jefferson Rojas Palomino,Emisión de  Informe,2025-07-16,,2025-07-16
+572,14,668,Jorge Portocarrero Colunge,Emisión de  Informe,2025-07-18,,2025-07-17
+573,14,673,Jorge Portocarrero Colunge,Emisión de  Informe,2025-07-18,,2025-07-17
+574,14,673,Jorge Portocarrero Colunge,Entrega de Informe a la Gerencia,2025-07-18,,
+575,14,569,Yanina Mercedes Delfin Lazo,Envío Primer Sprint,2025-07-19,,2025-07-25
+576,14,572,Yanina Mercedes Delfin Lazo,Envío Planning,2025-07-19,,2025-07-10
+577,14,572,Yanina Mercedes Delfin Lazo,Envío Primer Sprint,2025-07-19,,2025-07-21
+578,14,571,Yanina Mercedes Delfin Lazo,Sprint Planning,2025-07-19,2025-07-10,2025-07-17
+579,14,571,Yanina Mercedes Delfin Lazo,Envío Planning,2025-07-19,2025-07-11,2025-07-19
+580,14,571,Yanina Mercedes Delfin Lazo,Envío Primer Sprint,2025-07-19,,2025-07-25
+581,14,571,Yanina Mercedes Delfin Lazo,Envío Primer Sprint,2025-07-19,2025-07-25,2025-08-01
+582,14,573,Yanina Mercedes Delfin Lazo,Sprint Planning,2025-07-19,,2025-07-17
+583,14,573,Yanina Mercedes Delfin Lazo,Envío Planning,2025-07-19,,2025-07-22
+584,14,573,Yanina Mercedes Delfin Lazo,PreWork,2025-07-19,,2025-06-27
+585,14,566,Yanina Mercedes Delfin Lazo,Envío Primer Sprint,2025-07-19,,2025-08-01
+586,14,566,Yanina Mercedes Delfin Lazo,Sprint Planning,2025-07-19,2025-07-10,2025-07-17
+587,14,566,Yanina Mercedes Delfin Lazo,Envío Planning,2025-07-19,2025-07-11,2025-07-22
+588,14,564,Yanina Mercedes Delfin Lazo,Sprint Planning,2025-07-19,2025-07-10,2025-07-17
+589,14,564,Yanina Mercedes Delfin Lazo,Envío Planning,2025-07-19,2025-07-18,2025-07-22
+590,14,564,Yanina Mercedes Delfin Lazo,Envío Primer Sprint,2025-07-19,,2025-08-15
+591,14,654,Jorge Portocarrero Colunge,FechaFinEjecucion,2025-07-21,2025-10-06,2025-09-26
+592,14,655,Jorge Portocarrero Colunge,FechaFinEjecucion,2025-07-21,2025-10-06,2025-09-26
+593,14,666,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-07-21,2025-06-16,2025-09-24
+594,14,669,Jorge Portocarrero Colunge,FechaFinEjecucion,2025-07-21,2025-11-13,2025-11-14
+595,14,669,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-07-21,2025-10-06,2025-09-24
+596,14,671,Jorge Portocarrero Colunge,FechaFinEjecucion,2025-07-21,2025-10-01,2025-09-22
+597,14,676,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-07-21,2025-12-01,2025-11-17
+598,14,677,Jorge Portocarrero Colunge,FechaFinEjecucion,2025-07-21,2025-10-01,2025-09-22
+599,14,681,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-07-21,2025-10-09,2025-09-29
+600,14,683,Jorge Portocarrero Colunge,FechaFinEjecucion,2025-07-21,2025-10-01,2025-09-22
+601,14,685,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-07-21,2025-10-09,2025-09-29
+602,14,688,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-07-21,2025-08-22,2025-11-17
+603,14,653,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-07-24,2025-08-20,2025-11-24
+604,14,679,Jorge Portocarrero Colunge,Emisión de Borrador de Informe,2025-07-24,,2025-07-22
+605,14,679,Jorge Portocarrero Colunge,Entrega de Informe a la Gerencia,2025-07-24,,2025-07-18
+606,14,674,Jorge Portocarrero Colunge,Emisión de Borrador de Informe,2025-07-24,,
+607,14,674,Jorge Portocarrero Colunge,Entrega de Informe a la Gerencia,2025-07-24,,2025-07-21
+608,14,680,Jorge Portocarrero Colunge,Emisión de Borrador de Informe,2025-07-24,,2025-07-31
+609,14,629,Jefferson Rojas Palomino,Cierre de proyecto en TM,2025-07-25,,2025-07-25
+610,14,668,Jorge Portocarrero Colunge,Cierre de proyecto en TM,2025-08-04,,2025-07-30
+611,14,673,Jorge Portocarrero Colunge,Cierre de proyecto en TM,2025-08-04,,2025-07-30
+612,14,679,Jorge Portocarrero Colunge,Emisión de  Informe,2025-08-04,,2025-07-25
+613,14,679,Jorge Portocarrero Colunge,Cierre de proyecto en TM,2025-08-04,,2025-08-04
+614,14,674,Jorge Portocarrero Colunge,Emisión de Borrador de Informe,2025-08-05,,2025-07-24
+615,14,657,Jorge Portocarrero Colunge,Emisión de Borrador de Informe,2025-08-05,,2025-07-14
+616,14,690,Jorge Portocarrero Colunge,Emisión de Borrador de Informe,2025-08-05,,2025-07-14
+617,14,680,Jorge Portocarrero Colunge,Emisión de Borrador de Informe,2025-08-06,2025-07-31,2025-08-07
+618,14,680,Jorge Portocarrero Colunge,Emisión de Borrador de Informe,2025-08-06,2025-08-07,2025-08-06
+619,14,680,Jorge Portocarrero Colunge,Emisión de Borrador de Informe,2025-08-06,2025-08-06,2025-08-05
+620,14,680,Jorge Portocarrero Colunge,Emisión de Borrador de Informe,2025-08-06,2025-08-05,2025-08-07
+621,14,680,Jorge Portocarrero Colunge,Emisión de Borrador de Informe,2025-08-06,2025-08-07,2025-08-06
+622,14,680,Jorge Portocarrero Colunge,Emisión de Borrador de Informe,2025-08-06,2025-08-06,2025-08-07
+623,14,680,Jorge Portocarrero Colunge,Emisión de Borrador de Informe,2025-08-06,2025-08-07,2025-08-05
+624,14,680,Jorge Portocarrero Colunge,Emisión de Borrador de Informe,2025-08-06,2025-08-05,2025-08-07
+625,14,686,Jorge Portocarrero Colunge,FechaInicioEjecucion,2025-08-07,2025-06-16,2025-06-30
+626,14,686,Jorge Portocarrero Colunge,PreWork,2025-08-07,,2025-07-10
+627,14,686,Jorge Portocarrero Colunge,Sprint Planning,2025-08-07,,2025-07-15
+628,14,686,Jorge Portocarrero Colunge,Envío Planning,2025-08-07,,2025-07-22
+629,14,572,Anthony Aranibar,PreWork,2025-08-14,2025-06-06,2025-06-25
+630,14,572,Anthony Aranibar,PreWork,2025-08-14,2025-06-25,2025-06-06
+631,14,686,Jorge Portocarrero Colunge,Emisión de Borrador de Informe,2025-08-29,,2025-08-22
+632,14,686,Jorge Portocarrero Colunge,Entrega de Informe a la Gerencia,2025-08-29,,2025-08-29
+633,14,686,Jorge Portocarrero Colunge,Envío Primer Sprint,2025-08-29,,2025-08-21
+634,14,632,,Bloqueo,2025-09-01,,2025-09-01
+635,14,633,Jefferson Rojas Palomino,Entrega de Informe a la Gerencia,2025-09-01,,2025-08-27
+636,14,633,Jefferson Rojas Palomino,Envío Planning,2025-09-01,,2025-07-16
+637,14,633,Jefferson Rojas Palomino,Envío Primer Sprint,2025-09-01,,2025-08-15
+638,14,634,Jefferson Rojas Palomino,Sprint Planning,2025-09-01,,2025-08-25
+639,14,631,Jefferson Rojas Palomino,Envío Planning,2025-09-01,,2025-08-21
